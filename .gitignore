@@ -1,0 +1,26 @@
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msm
+*.msp
+.DS_Store
+
+# SSMS & Visual Studio
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.opensdf
+*.sdf
+*.sublime-workspace
+.vscode/
+.idea/
+
+# Temp files
+*.tmp
+*.temp
+*.log
